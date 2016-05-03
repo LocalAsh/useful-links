@@ -1,8 +1,8 @@
-### useful-links
-#a buffet of useful links - enjoy
+ ### useful-links
+ #a buffet of useful links - enjoy
 
 
-## Useful links :muscle: :sweat_smile:
+ ## Useful links :muscle: :sweat_smile:
   * [10-commandments-of-a-born-again-developer](http://goodheads.io/2015/07/26/the-10-commandments-of-a-born-again-developer)
   * [dev podcasts](http://goodheads.io/2016/02/24/how-i-learn-and-keep-up-with-the-tech-times-podcasts)
   * [phpenthusiast.com](http://phpenthusiast.com)
@@ -21,3 +21,4 @@
   * [Just Start] (https://medium.com/the-coffeelicious/whatever-you-do-just-start-ec236bcc3d6c#.vqnie593i)
   
   :ok_hand:
+  * [Emoji Cheat Sheet] (http://www.emoji-cheat-sheet.com/) :unlock:
