@@ -15,6 +15,7 @@
   * [JS-Scene](https://medium.com/javascript-scene)
   * [lovely] (https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.lb5bumdey):strawberry:
   * [Nice Dev Blogs] (https://www.google.co.za/#q=best+side+to+create+developer+blog)
+  * [PHP aint shitty] (http://goodheads.io/2015/10/17/php-isnt-shitty-your-mindset-is)
   
   ### Make No Excuses :raised_hands:
   * [Stop making these 15 excuses] (http://dariusforoux.com/stop-making-these-15-excuses-that-are-holding-you-back)
