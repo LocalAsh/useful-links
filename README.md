@@ -7,6 +7,8 @@
   * [phpenthusiast.com](http://phpenthusiast.com)
   * [php-books.com](http://php-books.com/)
   * [goodheads.io](http://goodheads.io)
+  * [open source webapps] (https://github.com/unicodeveloper/awesome-opensource-webapps)
+  * [Dev Blogs] (https://github.com/kilimchoi/engineering-blogs)
 
 ### :boom::school_satchel::boom::school_satchel:
   * [10 Tips for newbiesJunior-devs](http://goodheads.io/2015/07/09/10-tips-for-newbiesjunior-developers)
