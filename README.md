@@ -12,6 +12,7 @@
   * [git it up] (https://try.github.io/levels/1/challenges/1) 
   * [walking and blogging] (https://www.google.co.za/#q=blogging+with+github+pages)
   * [java-sax] (http://java-book.peruzal.com/index.html)
+  * [beautiful, just beatiful] (http://hyperpolyglot.org/)
 
 ### :boom::school_satchel::boom::school_satchel:
   * [10 Tips for newbiesJunior-devs](http://goodheads.io/2015/07/09/10-tips-for-newbiesjunior-developers)
