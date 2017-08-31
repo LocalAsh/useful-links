@@ -1,5 +1,5 @@
 ### useful-links
-#a buffet of useful links - enjoy
+#Enjoy
 
 ### Useful links :muscle: :sweat_smile:
   * [10-commandments-of-a-born-again-developer](http://goodheads.io/2015/07/26/the-10-commandments-of-a-born-again-developer)
