@@ -24,6 +24,16 @@
   * [PHP aint shitty] (http://goodheads.io/2015/10/17/php-isnt-shitty-your-mindset-is)
   * [Free Dev eBooks] (https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.tdgg6sbfa)
   
+   
+### Recommendations from js meetup
+
+  * [leanpub] (leanpub.com/javascriptallongesix)
+  * [jstherightway] (jstherightway.org)
+  * [eloquentjs] (eloquentjavascript.net)
+  * [speakingjs] (speakingjs.com)
+  * [devdocs] (devdocs.io)
+  * [mozilla docs] (developer.mozilla.org/en-US/docs/Web/JavaScript)
+  
   ### Make No Excuses :raised_hands:
   * [Stop making these 15 excuses] (http://dariusforoux.com/stop-making-these-15-excuses-that-are-holding-you-back)
   * [Just Start] (https://medium.com/the-coffeelicious/whatever-you-do-just-start-ec236bcc3d6c#.vqnie593i)
