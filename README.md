@@ -32,6 +32,7 @@
   * [eloquentjs] (eloquentjavascript.net)
   * [speakingjs] (speakingjs.com)
   * [devdocs] (devdocs.io)
+  * [The Odin Project] (https://www.theodinproject.com/)
   * [mozilla docs] (developer.mozilla.org/en-US/docs/Web/JavaScript)
   
   ### Make No Excuses :raised_hands:
