@@ -28,12 +28,12 @@
 ### Recommendations from js meetup
 
   * [leanpub] (leanpub.com/javascriptallongesix)
-  * [jstherightway] (jstherightway.org)
-  * [eloquentjs] (eloquentjavascript.net)
-  * [speakingjs] (speakingjs.com)
-  * [devdocs] (devdocs.io)
+  * [jstherightway] (http://jstherightway.org)
+  * [eloquentjs] (https://eloquentjavascript.net)
+  * [speakingjs] (https://speakingjs.com)
+  * [devdocs] (https://devdocs.io/)
   * [The Odin Project] (https://www.theodinproject.com/)
-  * [mozilla docs] (developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * [mozilla docs] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
   ### Make No Excuses :raised_hands:
   * [Stop making these 15 excuses] (http://dariusforoux.com/stop-making-these-15-excuses-that-are-holding-you-back)
