@@ -27,7 +27,7 @@
    
 ### Recommendations from js meetup
 
-  * [leanpub] (leanpub.com/javascriptallongesix)
+  * [leanpub] (https://leanpub.com/javascriptallongesix)
   * [jstherightway] (http://jstherightway.org)
   * [eloquentjs] (https://eloquentjavascript.net)
   * [speakingjs] (https://speakingjs.com)
@@ -41,3 +41,5 @@
   
   :ok_hand:
   * [Emoji Cheat Sheet] (http://www.emoji-cheat-sheet.com/) :unlock:
+  
+  # Feel free to contribute to this list
