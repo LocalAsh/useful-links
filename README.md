@@ -1,5 +1,4 @@
 ### useful-links
-#Enjoy
 
 ### Useful links :muscle: :sweat_smile:
   * [10-commandments-of-a-born-again-developer](http://goodheads.io/2015/07/26/the-10-commandments-of-a-born-again-developer)
@@ -43,3 +42,5 @@
   * [Emoji Cheat Sheet] (http://www.emoji-cheat-sheet.com/) :unlock:
   
   # Feel free to contribute to this list
+  # Enjoy
+
